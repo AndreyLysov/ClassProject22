@@ -3,5 +3,6 @@ public class JavaClass {
         System.out.println("hello");
         System.out.println("hi");
         System.out.println("123123");
+        System.out.println("Changes in master branch");
     }
 }
